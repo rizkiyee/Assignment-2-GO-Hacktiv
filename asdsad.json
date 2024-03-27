@@ -1,0 +1,12 @@
+{
+  "customer_name": "Spike Tyke",
+  "odrdered_at": "",
+  "items": [
+    {
+      "lineItemId": 1,
+      "itemCode": "123",
+      "description": "Iphone 10x",
+      "quantity": 10
+    }
+  ]
+}
